@@ -1,0 +1,2 @@
+# signal period in days
+2.972636210716674299e+01
